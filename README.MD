@@ -134,3 +134,8 @@ bun test
 ---
 If you want, I can add a complete example project in this repo (routes, small DB example, and a Dockerfile). Want that next?## Portfolio
 # my first site 
+
+
+## db and docker hello world
+create a mongodb collection and do CRUD on data
+use docker mongodb 
